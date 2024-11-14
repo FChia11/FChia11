@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **#patents**
 
-- 👨‍💻 All of my projects are available at [https://www.francescachiaradia.com/](https://www.francescachiaradia.com/)
+- 👨‍💻 All of my projects are available @ [https://www.francescachiaradia.com/](https://www.francescachiaradia.com/)
 
-- 📫 How to reach me **fc73@st-andrews.ac.uk**
+- 📫 Email: **fc73@st-andrews.ac.uk**
 
-- 📄 Know about my experiences [https://www.francescachiaradia.com/uploads/CV.pdf](https://www.francescachiaradia.com/uploads/CV.pdf)
+- 📄 Know about my experiences: [https://www.francescachiaradia.com/uploads/CV.pdf](https://www.francescachiaradia.com/uploads/CV.pdf)
 
-- ⚡ Fun fact **I love ⛳⛳⛳!**
+- ⚡ Fun fact: **I love ⛳⛳⛳!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
