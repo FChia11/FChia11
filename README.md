@@ -9,13 +9,13 @@
 
 - 👨‍💻 My projects are available @ [https://www.francescachiaradia.com/](https://www.francescachiaradia.com/)
 
-- 📫 Email: **fc73@st-andrews.ac.uk**
+- 📫 **fc73@st-andrews.ac.uk**
 
 - 📄 Know about my experiences: [https://www.francescachiaradia.com/uploads/CV.pdf](https://www.francescachiaradia.com/uploads/CV.pdf)
 
 - ⚡ Fun fact: **I love ⛳⛳⛳!!!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> [https://www.linkedin.com/in/francesca-chiaradia-abit96](https://www.linkedin.com/in/francesca-chiaradia-abit96)
 <p align="left">
 </p>
 
