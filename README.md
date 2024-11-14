@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **#patents**
 
-- 👨‍💻 All of my projects are available @ [https://www.francescachiaradia.com/](https://www.francescachiaradia.com/)
+- 👨‍💻 My projects are available @ [https://www.francescachiaradia.com/](https://www.francescachiaradia.com/)
 
 - 📫 Email: **fc73@st-andrews.ac.uk**
 
