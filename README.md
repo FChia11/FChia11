@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **CSS**
 
-- 👯 I’m looking to collaborate on **#patents**
-
 - 👨‍💻 My projects are available @ [https://www.francescachiaradia.com/](https://www.francescachiaradia.com/)
 
 - 📫 **fc73@st-andrews.ac.uk**
