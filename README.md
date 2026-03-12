@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francesca</h1>
 <h3 align="center">A PhD student in Economics at the University of St Andrews</h3>
 
-- 🔭 I’m working at the intersection of **law and innovation economics**
+- 🔭 I’m working at the intersection of **innovation, law, and information economics**
 
 - 🌱 I’m currently learning **CSS**
 
