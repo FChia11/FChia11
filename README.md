@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CSS**
 
-- 👨‍💻 My projects are available @ [https://www.francescachiaradia.com/](https://www.francescachiaradia.com/)
+- 💡 My projects are available @ [https://www.francescachiaradia.com/](https://www.francescachiaradia.com/)
 
 - 📫 **fc73@st-andrews.ac.uk**
 
