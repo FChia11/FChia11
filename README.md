@@ -9,7 +9,7 @@
 
 - 📫 **fc73@st-andrews.ac.uk**
 
-- 📄 Know about my experiences: [https://www.francescachiaradia.com/uploads/CV.pdf](https://www.francescachiaradia.com/uploads/CV.pdf)
+- 📄 Know about my experiences: [https://francescachiaradia.com/assets/uploads/CV.pdf](https://francescachiaradia.com/assets/uploads/CV.pdf)
 
 - ⚡ Fun fact: **I love ⛳⛳⛳!!!**
 
