@@ -7,7 +7,7 @@
 
 - 💡 My projects are available @ [https://www.francescachiaradia.com/](https://www.francescachiaradia.com/)
 
-- 📫 **fc73@st-andrews.ac.uk**
+- 📫 **f.chiaradia@jbs.cam.ac.uk**
 
 - 📄 Know about my experiences: [https://francescachiaradia.com/assets/uploads/CV.pdf](https://francescachiaradia.com/assets/uploads/CV.pdf)
 
