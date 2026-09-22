@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Francesca</h1>
-<h3 align="center">A PhD student in Economics at the University of St Andrews</h3>
+<h1 align="center">Hi, I'm Francesca</h1>
+<h3 align="center">A Research Associate at the El-Erian Institute, University of Cambridge</h3>
 
 - 🔭 I’m working at the intersection of **innovation and information economics**
 
